@@ -1,0 +1,14 @@
+python show_video_EAR.py -p shape_predictor_68_face_landmarks.dat -v eyeblink8\1\26122013_223310_cam.avi -q raw_data\26122013_223310_cam.csv 
+
+python show_video_EAR_NOFACE.py -v eyeblink8\1\26122013_223310_cam.avi -q raw_data\26122013_223310_cam.csv 
+
+
+python show_video_EAR_NOFACE.py -p shape_predictor_68_face_landmarks.dat -v eyeblink8\1\26122013_223310_cam.avi
+
+python detect_blinks_1.py -p shape_predictor_68_face_landmarks.dat -v talking.avi
+
+python detect_blinks_1.py -p shape_predictor_68_face_landmarks.dat -v talkingface\talking.avi >>D:xxx.txt
+
+(blink) E:\Eye-Blink-Detection-master>python detect_blinks_1.py -p shape_predictor_68_face_landmarks.dat -v 1.mp4 >>D:1.txt
+
+(blink) E:\Eye-Blink-Detection-master>python detect_blinks_2.py -p shape_predictor_68_face_landmarks.dat -v 1.mp4 -o 11.avi >>E:11.txt
