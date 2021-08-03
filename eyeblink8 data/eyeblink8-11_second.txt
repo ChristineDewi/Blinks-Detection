@@ -1,0 +1,104 @@
+Eye blinked 0.029237985610961914 seconds
+Total 1
+Eye blinked 0.03158926963806152 seconds
+Total 2
+Eye blinked 0.03185701370239258 seconds
+Total 3
+Eye blinked 0.029360532760620117 seconds
+Total 4
+Eye blinked 0.03188300132751465 seconds
+Total 5
+Eye blinked 0.030919313430786133 seconds
+Total 6
+Eye blinked 0.03205418586730957 seconds
+Total 7
+Eye blinked 0.03141617774963379 seconds
+Total 8
+Eye blinked 0.031345367431640625 seconds
+Total 9
+Eye blinked 0.03597140312194824 seconds
+Total 10
+Eye blinked 0.03031754493713379 seconds
+Total 11
+Eye blinked 0.030683517456054688 seconds
+Total 12
+Eye blinked 0.031594276428222656 seconds
+Total 13
+Eye blinked 0.031075239181518555 seconds
+Total 14
+Eye blinked 0.031288862228393555 seconds
+Total 15
+Eye blinked 0.03111410140991211 seconds
+Total 16
+Eye blinked 0.03004741668701172 seconds
+Total 17
+Eye blinked 0.029896020889282227 seconds
+Total 18
+Eye blinked 0.029926776885986328 seconds
+Total 19
+Eye blinked 0.02609992027282715 seconds
+Total 20
+Eye blinked 0.030172109603881836 seconds
+Total 21
+Eye blinked 0.03067612648010254 seconds
+Total 22
+Eye blinked 0.03172707557678223 seconds
+Total 23
+Eye blinked 0.030686378479003906 seconds
+Total 24
+Eye blinked 0.031301021575927734 seconds
+Total 25
+Eye blinked 0.030066490173339844 seconds
+Total 26
+Eye blinked 0.031105995178222656 seconds
+Total 27
+Eye blinked 0.03679656982421875 seconds
+Total 28
+Eye blinked 0.03202366828918457 seconds
+Total 29
+Eye blinked 0.030791521072387695 seconds
+Total 30
+Eye blinked 0.03121018409729004 seconds
+Total 31
+Eye blinked 0.030278444290161133 seconds
+Total 32
+Eye blinked 0.03177523612976074 seconds
+Total 33
+Eye blinked 0.03009939193725586 seconds
+Total 34
+Eye blinked 0.03254818916320801 seconds
+Total 35
+Eye blinked 0.03132891654968262 seconds
+Total 36
+Eye blinked 0.03132963180541992 seconds
+Total 37
+Eye blinked 0.12691164016723633 seconds
+Total 38
+Eye blinked 0.0314178466796875 seconds
+Total 39
+Eye blinked 0.031010150909423828 seconds
+Total 40
+Eye blinked 0.031325340270996094 seconds
+Total 41
+Eye blinked 0.031235218048095703 seconds
+Total 42
+Eye blinked 0.03116893768310547 seconds
+Total 43
+Eye blinked 0.031110286712646484 seconds
+Total 44
+Eye blinked 0.030036211013793945 seconds
+Total 45
+Eye blinked 0.03022909164428711 seconds
+Total 46
+Eye blinked 0.031145334243774414 seconds
+Total 47
+Eye blinked 0.030640363693237305 seconds
+Total 48
+Eye blinked 0.03193092346191406 seconds
+Total 49
+Eye blinked 0.030757665634155273 seconds
+Total 50
+Eye blinked 0.030277729034423828 seconds
+Total 51
+Eye blinked 0.03193473815917969 seconds
+Total 52

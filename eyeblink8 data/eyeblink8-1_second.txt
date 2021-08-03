@@ -1,0 +1,942 @@
+[INFO] loading facial landmark predictor...
+[INFO] starting video stream thread...
+Eye blinked 0.031110763549804688 seconds
+Total 1
+Eye blinked 0.031074047088623047 seconds
+Total 2
+Eye blinked 0.029960155487060547 seconds
+Total 3
+Eye blinked 0.030164003372192383 seconds
+Total 4
+Eye blinked 0.029312849044799805 seconds
+Total 5
+Eye blinked 0.03204345703125 seconds
+Total 6
+Eye blinked 0.03002452850341797 seconds
+Total 7
+Eye blinked 0.029920101165771484 seconds
+Total 8
+Eye blinked 0.03201007843017578 seconds
+Total 9
+Eye blinked 0.049866676330566406 seconds
+Total 10
+Eye blinked 0.0319669246673584 seconds
+Total 11
+Eye blinked 0.029068470001220703 seconds
+Total 12
+Eye blinked 0.03129744529724121 seconds
+Total 13
+Eye blinked 0.030189990997314453 seconds
+Total 14
+Eye blinked 0.030440807342529297 seconds
+Total 15
+Eye blinked 0.031079530715942383 seconds
+Total 16
+Eye blinked 0.02994370460510254 seconds
+Total 17
+Eye blinked 0.030916213989257812 seconds
+Total 18
+Eye blinked 0.028914451599121094 seconds
+Total 19
+Eye blinked 0.0298922061920166 seconds
+Total 20
+Eye blinked 0.03215432167053223 seconds
+Total 21
+Eye blinked 0.021905899047851562 seconds
+Total 22
+Eye blinked 0.029948949813842773 seconds
+Total 23
+Eye blinked 0.029919862747192383 seconds
+Total 24
+Eye blinked 0.032912254333496094 seconds
+Total 25
+Eye blinked 0.026899099349975586 seconds
+Total 26
+Eye blinked 0.03089141845703125 seconds
+Total 27
+Eye blinked 0.030170917510986328 seconds
+Total 28
+Eye blinked 0.031369924545288086 seconds
+Total 29
+Eye blinked 0.030919313430786133 seconds
+Total 30
+Eye blinked 0.03033304214477539 seconds
+Total 31
+Eye blinked 0.03124380111694336 seconds
+Total 32
+Eye blinked 0.029358625411987305 seconds
+Total 33
+Eye blinked 0.03013134002685547 seconds
+Total 34
+Eye blinked 0.030525922775268555 seconds
+Total 35
+Eye blinked 0.029946565628051758 seconds
+Total 36
+Eye blinked 0.031063556671142578 seconds
+Total 37
+Eye blinked 0.03094625473022461 seconds
+Total 38
+Eye blinked 0.031160354614257812 seconds
+Total 39
+Eye blinked 0.03120565414428711 seconds
+Total 40
+Eye blinked 0.050043344497680664 seconds
+Total 41
+Eye blinked 0.030179500579833984 seconds
+Total 42
+Eye blinked 0.03019857406616211 seconds
+Total 43
+Eye blinked 0.031086444854736328 seconds
+Total 44
+Eye blinked 0.030222415924072266 seconds
+Total 45
+Eye blinked 0.02889227867126465 seconds
+Total 46
+Eye blinked 0.031071186065673828 seconds
+Total 47
+Eye blinked 0.029892683029174805 seconds
+Total 48
+Eye blinked 0.03310132026672363 seconds
+Total 49
+Eye blinked 0.03128838539123535 seconds
+Total 50
+Eye blinked 0.031177759170532227 seconds
+Total 51
+Eye blinked 0.02892327308654785 seconds
+Total 52
+Eye blinked 0.0310516357421875 seconds
+Total 53
+Eye blinked 0.030187129974365234 seconds
+Total 54
+Eye blinked 0.025899410247802734 seconds
+Total 55
+Eye blinked 0.03117847442626953 seconds
+Total 56
+Eye blinked 0.031075000762939453 seconds
+Total 57
+Eye blinked 0.030188322067260742 seconds
+Total 58
+Eye blinked 0.03107595443725586 seconds
+Total 59
+Eye blinked 0.03093862533569336 seconds
+Total 60
+Eye blinked 0.030980587005615234 seconds
+Total 61
+Eye blinked 0.031382083892822266 seconds
+Total 62
+Eye blinked 0.030329465866088867 seconds
+Total 63
+Eye blinked 0.030039548873901367 seconds
+Total 64
+Eye blinked 0.03220653533935547 seconds
+Total 65
+Eye blinked 0.03291773796081543 seconds
+Total 66
+Eye blinked 0.032331228256225586 seconds
+Total 67
+Eye blinked 0.030887842178344727 seconds
+Total 68
+Eye blinked 0.031919002532958984 seconds
+Total 69
+Eye blinked 0.03055739402770996 seconds
+Total 70
+Eye blinked 0.03148913383483887 seconds
+Total 71
+Eye blinked 0.032265424728393555 seconds
+Total 72
+Eye blinked 0.02804422378540039 seconds
+Total 73
+Eye blinked 0.030431747436523438 seconds
+Total 74
+Eye blinked 0.029282569885253906 seconds
+Total 75
+Eye blinked 0.030298471450805664 seconds
+Total 76
+Eye blinked 0.03120589256286621 seconds
+Total 77
+Eye blinked 0.030185937881469727 seconds
+Total 78
+Eye blinked 0.0321497917175293 seconds
+Total 79
+Eye blinked 0.0300447940826416 seconds
+Total 80
+Eye blinked 0.028074264526367188 seconds
+Total 81
+Eye blinked 0.030892372131347656 seconds
+Total 82
+Eye blinked 0.030084609985351562 seconds
+Total 83
+Eye blinked 0.031044483184814453 seconds
+Total 84
+Eye blinked 0.04485058784484863 seconds
+Total 85
+Eye blinked 0.03130984306335449 seconds
+Total 86
+Eye blinked 0.030920028686523438 seconds
+Total 87
+Eye blinked 0.029037952423095703 seconds
+Total 88
+Eye blinked 0.03193521499633789 seconds
+Total 89
+Eye blinked 0.030253171920776367 seconds
+Total 90
+Eye blinked 0.032172203063964844 seconds
+Total 91
+Eye blinked 0.028927087783813477 seconds
+Total 92
+Eye blinked 0.029057741165161133 seconds
+Total 93
+Eye blinked 0.031176090240478516 seconds
+Total 94
+Eye blinked 0.02995014190673828 seconds
+Total 95
+Eye blinked 0.02998661994934082 seconds
+Total 96
+Eye blinked 0.030877113342285156 seconds
+Total 97
+Eye blinked 0.031702280044555664 seconds
+Total 98
+Eye blinked 0.030858516693115234 seconds
+Total 99
+Eye blinked 0.03125429153442383 seconds
+Total 100
+Eye blinked 0.0312952995300293 seconds
+Total 101
+Eye blinked 0.0309140682220459 seconds
+Total 102
+Eye blinked 0.03256392478942871 seconds
+Total 103
+Eye blinked 0.030802249908447266 seconds
+Total 104
+Eye blinked 0.031400442123413086 seconds
+Total 105
+Eye blinked 0.03165435791015625 seconds
+Total 106
+Eye blinked 0.03122234344482422 seconds
+Total 107
+Eye blinked 0.031424522399902344 seconds
+Total 108
+Eye blinked 0.03160357475280762 seconds
+Total 109
+Eye blinked 0.031121492385864258 seconds
+Total 110
+Eye blinked 0.03143906593322754 seconds
+Total 111
+Eye blinked 0.03138470649719238 seconds
+Total 112
+Eye blinked 0.03174567222595215 seconds
+Total 113
+Eye blinked 0.031369686126708984 seconds
+Total 114
+Eye blinked 0.03105759620666504 seconds
+Total 115
+Eye blinked 0.03181791305541992 seconds
+Total 116
+Eye blinked 0.031157255172729492 seconds
+Total 117
+Eye blinked 0.03121161460876465 seconds
+Total 118
+Eye blinked 0.03200840950012207 seconds
+Total 119
+Eye blinked 0.0317685604095459 seconds
+Total 120
+Eye blinked 0.03107905387878418 seconds
+Total 121
+Eye blinked 0.030945777893066406 seconds
+Total 122
+Eye blinked 0.03165245056152344 seconds
+Total 123
+Eye blinked 0.03130698204040527 seconds
+Total 124
+Eye blinked 0.03105449676513672 seconds
+Total 125
+Eye blinked 0.031240463256835938 seconds
+Total 126
+Eye blinked 0.032736778259277344 seconds
+Total 127
+Eye blinked 0.03192257881164551 seconds
+Total 128
+Eye blinked 0.03196358680725098 seconds
+Total 129
+Eye blinked 0.03144335746765137 seconds
+Total 130
+Eye blinked 0.031123876571655273 seconds
+Total 131
+Eye blinked 0.030403852462768555 seconds
+Total 132
+Eye blinked 0.031082868576049805 seconds
+Total 133
+Eye blinked 0.03697466850280762 seconds
+Total 134
+Eye blinked 0.031324148178100586 seconds
+Total 135
+Eye blinked 0.023070812225341797 seconds
+Total 136
+Eye blinked 0.030658721923828125 seconds
+Total 137
+Eye blinked 0.030916929244995117 seconds
+Total 138
+Eye blinked 0.031256675720214844 seconds
+Total 139
+Eye blinked 0.031101703643798828 seconds
+Total 140
+Eye blinked 0.032120704650878906 seconds
+Total 141
+Eye blinked 0.030281782150268555 seconds
+Total 142
+Eye blinked 0.03168177604675293 seconds
+Total 143
+Eye blinked 0.029872655868530273 seconds
+Total 144
+Eye blinked 0.031780242919921875 seconds
+Total 145
+Eye blinked 0.04397106170654297 seconds
+Total 146
+Eye blinked 0.03025531768798828 seconds
+Total 147
+Eye blinked 0.032416343688964844 seconds
+Total 148
+Eye blinked 0.031075477600097656 seconds
+Total 149
+Eye blinked 0.03138303756713867 seconds
+Total 150
+Eye blinked 0.03194880485534668 seconds
+Total 151
+Eye blinked 0.0312349796295166 seconds
+Total 152
+Eye blinked 0.031737327575683594 seconds
+Total 153
+Eye blinked 0.031086206436157227 seconds
+Total 154
+Eye blinked 0.03155231475830078 seconds
+Total 155
+Eye blinked 0.03121042251586914 seconds
+Total 156
+Eye blinked 0.031194210052490234 seconds
+Total 157
+Eye blinked 0.0319521427154541 seconds
+Total 158
+Eye blinked 0.030185699462890625 seconds
+Total 159
+Eye blinked 0.031272172927856445 seconds
+Total 160
+Eye blinked 0.03209400177001953 seconds
+Total 161
+Eye blinked 0.03140664100646973 seconds
+Total 162
+Eye blinked 0.03182196617126465 seconds
+Total 163
+Eye blinked 0.02991962432861328 seconds
+Total 164
+Eye blinked 0.03375697135925293 seconds
+Total 165
+Eye blinked 0.031389474868774414 seconds
+Total 166
+Eye blinked 0.03133559226989746 seconds
+Total 167
+Eye blinked 0.03256368637084961 seconds
+Total 168
+Eye blinked 0.030025005340576172 seconds
+Total 169
+Eye blinked 0.03161191940307617 seconds
+Total 170
+Eye blinked 0.032737016677856445 seconds
+Total 171
+Eye blinked 0.03151559829711914 seconds
+Total 172
+Eye blinked 0.030273914337158203 seconds
+Total 173
+Eye blinked 0.030129194259643555 seconds
+Total 174
+Eye blinked 0.03102731704711914 seconds
+Total 175
+Eye blinked 0.03140139579772949 seconds
+Total 176
+Eye blinked 0.03186798095703125 seconds
+Total 177
+Eye blinked 0.031098127365112305 seconds
+Total 178
+Eye blinked 0.03192615509033203 seconds
+Total 179
+Eye blinked 0.03219437599182129 seconds
+Total 180
+Eye blinked 0.032241106033325195 seconds
+Total 181
+Eye blinked 0.030074596405029297 seconds
+Total 182
+Eye blinked 0.03226041793823242 seconds
+Total 183
+Eye blinked 0.030272245407104492 seconds
+Total 184
+Eye blinked 0.0321199893951416 seconds
+Total 185
+Eye blinked 0.02924203872680664 seconds
+Total 186
+Eye blinked 0.03229808807373047 seconds
+Total 187
+Eye blinked 0.046357154846191406 seconds
+Total 188
+Eye blinked 0.031914472579956055 seconds
+Total 189
+Eye blinked 0.036063432693481445 seconds
+Total 190
+Eye blinked 0.031162500381469727 seconds
+Total 191
+Eye blinked 0.031045913696289062 seconds
+Total 192
+Eye blinked 0.031270503997802734 seconds
+Total 193
+Eye blinked 0.03201460838317871 seconds
+Total 194
+Eye blinked 0.0319371223449707 seconds
+Total 195
+Eye blinked 0.031106233596801758 seconds
+Total 196
+Eye blinked 0.030733823776245117 seconds
+Total 197
+Eye blinked 0.03076910972595215 seconds
+Total 198
+Eye blinked 0.03131556510925293 seconds
+Total 199
+Eye blinked 0.03018975257873535 seconds
+Total 200
+Eye blinked 0.03018498420715332 seconds
+Total 201
+Eye blinked 0.03235578536987305 seconds
+Total 202
+Eye blinked 0.032079458236694336 seconds
+Total 203
+Eye blinked 0.03136396408081055 seconds
+Total 204
+Eye blinked 0.03121781349182129 seconds
+Total 205
+Eye blinked 0.0321044921875 seconds
+Total 206
+Eye blinked 0.0357816219329834 seconds
+Total 207
+Eye blinked 0.0329136848449707 seconds
+Total 208
+Eye blinked 0.032028913497924805 seconds
+Total 209
+Eye blinked 0.035309791564941406 seconds
+Total 210
+Eye blinked 0.030484914779663086 seconds
+Total 211
+Eye blinked 0.03177762031555176 seconds
+Total 212
+Eye blinked 0.030896425247192383 seconds
+Total 213
+Eye blinked 0.03134965896606445 seconds
+Total 214
+Eye blinked 0.03129386901855469 seconds
+Total 215
+Eye blinked 0.0309295654296875 seconds
+Total 216
+Eye blinked 0.03191542625427246 seconds
+Total 217
+Eye blinked 0.03079533576965332 seconds
+Total 218
+Eye blinked 0.0321044921875 seconds
+Total 219
+Eye blinked 0.03039860725402832 seconds
+Total 220
+Eye blinked 0.031100034713745117 seconds
+Total 221
+Eye blinked 0.031900882720947266 seconds
+Total 222
+Eye blinked 0.03511857986450195 seconds
+Total 223
+Eye blinked 0.03129100799560547 seconds
+Total 224
+Eye blinked 0.02740931510925293 seconds
+Total 225
+Eye blinked 0.030339717864990234 seconds
+Total 226
+Eye blinked 0.031027555465698242 seconds
+Total 227
+Eye blinked 0.03095412254333496 seconds
+Total 228
+Eye blinked 0.031075477600097656 seconds
+Total 229
+Eye blinked 0.029933452606201172 seconds
+Total 230
+Eye blinked 0.03250432014465332 seconds
+Total 231
+Eye blinked 0.0312807559967041 seconds
+Total 232
+Eye blinked 0.03150582313537598 seconds
+Total 233
+Eye blinked 0.03044867515563965 seconds
+Total 234
+Eye blinked 0.03043961524963379 seconds
+Total 235
+Eye blinked 0.031087398529052734 seconds
+Total 236
+Eye blinked 0.030963659286499023 seconds
+Total 237
+Eye blinked 0.030855894088745117 seconds
+Total 238
+Eye blinked 0.029920101165771484 seconds
+Total 239
+Eye blinked 0.03161144256591797 seconds
+Total 240
+Eye blinked 0.031345367431640625 seconds
+Total 241
+Eye blinked 0.026598215103149414 seconds
+Total 242
+Eye blinked 0.03309273719787598 seconds
+Total 243
+Eye blinked 0.032057762145996094 seconds
+Total 244
+Eye blinked 0.030308961868286133 seconds
+Total 245
+Eye blinked 0.031145334243774414 seconds
+Total 246
+Eye blinked 0.03224897384643555 seconds
+Total 247
+Eye blinked 0.03098130226135254 seconds
+Total 248
+Eye blinked 0.029463768005371094 seconds
+Total 249
+Eye blinked 0.0313258171081543 seconds
+Total 250
+Eye blinked 0.031026840209960938 seconds
+Total 251
+Eye blinked 0.030292034149169922 seconds
+Total 252
+Eye blinked 0.0325777530670166 seconds
+Total 253
+Eye blinked 0.030536890029907227 seconds
+Total 254
+Eye blinked 0.03132057189941406 seconds
+Total 255
+Eye blinked 0.03128337860107422 seconds
+Total 256
+Eye blinked 0.04527401924133301 seconds
+Total 257
+Eye blinked 0.031120777130126953 seconds
+Total 258
+Eye blinked 0.030698299407958984 seconds
+Total 259
+Eye blinked 0.03146719932556152 seconds
+Total 260
+Eye blinked 0.0317378044128418 seconds
+Total 261
+Eye blinked 0.030228376388549805 seconds
+Total 262
+Eye blinked 0.030947446823120117 seconds
+Total 263
+Eye blinked 0.03209257125854492 seconds
+Total 264
+Eye blinked 0.031212568283081055 seconds
+Total 265
+Eye blinked 0.03193020820617676 seconds
+Total 266
+Eye blinked 0.031113862991333008 seconds
+Total 267
+Eye blinked 0.030844926834106445 seconds
+Total 268
+Eye blinked 0.03154945373535156 seconds
+Total 269
+Eye blinked 0.030473709106445312 seconds
+Total 270
+Eye blinked 0.023906946182250977 seconds
+Total 271
+Eye blinked 0.035759687423706055 seconds
+Total 272
+Eye blinked 0.031496524810791016 seconds
+Total 273
+Eye blinked 0.03129410743713379 seconds
+Total 274
+Eye blinked 0.032387733459472656 seconds
+Total 275
+Eye blinked 0.031317710876464844 seconds
+Total 276
+Eye blinked 0.0463712215423584 seconds
+Total 277
+Eye blinked 0.0310211181640625 seconds
+Total 278
+Eye blinked 0.03172922134399414 seconds
+Total 279
+Eye blinked 0.03203606605529785 seconds
+Total 280
+Eye blinked 0.031299591064453125 seconds
+Total 281
+Eye blinked 0.03237152099609375 seconds
+Total 282
+Eye blinked 0.031072616577148438 seconds
+Total 283
+Eye blinked 0.031229734420776367 seconds
+Total 284
+Eye blinked 0.031162738800048828 seconds
+Total 285
+Eye blinked 0.03111743927001953 seconds
+Total 286
+Eye blinked 0.031836748123168945 seconds
+Total 287
+Eye blinked 0.03219294548034668 seconds
+Total 288
+Eye blinked 0.032927751541137695 seconds
+Total 289
+Eye blinked 0.03127741813659668 seconds
+Total 290
+Eye blinked 0.03102850914001465 seconds
+Total 291
+Eye blinked 0.03175854682922363 seconds
+Total 292
+Eye blinked 0.03042769432067871 seconds
+Total 293
+Eye blinked 0.03127431869506836 seconds
+Total 294
+Eye blinked 0.03206610679626465 seconds
+Total 295
+Eye blinked 0.030985116958618164 seconds
+Total 296
+Eye blinked 0.030095577239990234 seconds
+Total 297
+Eye blinked 0.03119039535522461 seconds
+Total 298
+Eye blinked 0.031230449676513672 seconds
+Total 299
+Eye blinked 0.03120589256286621 seconds
+Total 300
+Eye blinked 0.03060126304626465 seconds
+Total 301
+Eye blinked 0.031694889068603516 seconds
+Total 302
+Eye blinked 0.03057575225830078 seconds
+Total 303
+Eye blinked 0.03167438507080078 seconds
+Total 304
+Eye blinked 0.03190445899963379 seconds
+Total 305
+Eye blinked 0.03188610076904297 seconds
+Total 306
+Eye blinked 0.02293872833251953 seconds
+Total 307
+Eye blinked 0.031157493591308594 seconds
+Total 308
+Eye blinked 0.03123641014099121 seconds
+Total 309
+Eye blinked 0.03105473518371582 seconds
+Total 310
+Eye blinked 0.03098917007446289 seconds
+Total 311
+Eye blinked 0.031015396118164062 seconds
+Total 312
+Eye blinked 0.03284859657287598 seconds
+Total 313
+Eye blinked 0.032074928283691406 seconds
+Total 314
+Eye blinked 0.031132221221923828 seconds
+Total 315
+Eye blinked 0.030129671096801758 seconds
+Total 316
+Eye blinked 0.030901432037353516 seconds
+Total 317
+Eye blinked 0.03211712837219238 seconds
+Total 318
+Eye blinked 0.03193163871765137 seconds
+Total 319
+Eye blinked 0.03025341033935547 seconds
+Total 320
+Eye blinked 0.03225970268249512 seconds
+Total 321
+Eye blinked 0.03190922737121582 seconds
+Total 322
+Eye blinked 0.03187847137451172 seconds
+Total 323
+Eye blinked 0.030340194702148438 seconds
+Total 324
+Eye blinked 0.031183958053588867 seconds
+Total 325
+Eye blinked 0.03226351737976074 seconds
+Total 326
+Eye blinked 0.031171798706054688 seconds
+Total 327
+Eye blinked 0.030851125717163086 seconds
+Total 328
+Eye blinked 0.03132152557373047 seconds
+Total 329
+Eye blinked 0.0320887565612793 seconds
+Total 330
+Eye blinked 0.031284332275390625 seconds
+Total 331
+Eye blinked 0.0316317081451416 seconds
+Total 332
+Eye blinked 0.031081438064575195 seconds
+Total 333
+Eye blinked 0.03196239471435547 seconds
+Total 334
+Eye blinked 0.031213045120239258 seconds
+Total 335
+Eye blinked 0.031100034713745117 seconds
+Total 336
+Eye blinked 0.02934098243713379 seconds
+Total 337
+Eye blinked 0.030349254608154297 seconds
+Total 338
+Eye blinked 0.03163433074951172 seconds
+Total 339
+Eye blinked 0.031141996383666992 seconds
+Total 340
+Eye blinked 0.0320584774017334 seconds
+Total 341
+Eye blinked 0.03141975402832031 seconds
+Total 342
+Eye blinked 0.03142380714416504 seconds
+Total 343
+Eye blinked 0.029289722442626953 seconds
+Total 344
+Eye blinked 0.030434608459472656 seconds
+Total 345
+Eye blinked 0.03166627883911133 seconds
+Total 346
+Eye blinked 0.030992984771728516 seconds
+Total 347
+Eye blinked 0.0314939022064209 seconds
+Total 348
+Eye blinked 0.03132271766662598 seconds
+Total 349
+Eye blinked 0.03163290023803711 seconds
+Total 350
+Eye blinked 0.03128623962402344 seconds
+Total 351
+Eye blinked 0.03136634826660156 seconds
+Total 352
+Eye blinked 0.03103494644165039 seconds
+Total 353
+Eye blinked 0.03020763397216797 seconds
+Total 354
+Eye blinked 0.03314614295959473 seconds
+Total 355
+Eye blinked 0.03129148483276367 seconds
+Total 356
+Eye blinked 0.03550291061401367 seconds
+Total 357
+Eye blinked 0.03125929832458496 seconds
+Total 358
+Eye blinked 0.029722929000854492 seconds
+Total 359
+Eye blinked 0.03126239776611328 seconds
+Total 360
+Eye blinked 0.031119346618652344 seconds
+Total 361
+Eye blinked 0.03089761734008789 seconds
+Total 362
+Eye blinked 0.028107404708862305 seconds
+Total 363
+Eye blinked 0.03131842613220215 seconds
+Total 364
+Eye blinked 0.03215146064758301 seconds
+Total 365
+Eye blinked 0.030147790908813477 seconds
+Total 366
+Eye blinked 0.03221750259399414 seconds
+Total 367
+Eye blinked 0.031092405319213867 seconds
+Total 368
+Eye blinked 0.031288862228393555 seconds
+Total 369
+Eye blinked 0.03206825256347656 seconds
+Total 370
+Eye blinked 0.049237966537475586 seconds
+Total 371
+Eye blinked 0.03137612342834473 seconds
+Total 372
+Eye blinked 0.032361745834350586 seconds
+Total 373
+Eye blinked 0.031508445739746094 seconds
+Total 374
+Eye blinked 0.030216217041015625 seconds
+Total 375
+Eye blinked 0.030025720596313477 seconds
+Total 376
+Eye blinked 0.03125715255737305 seconds
+Total 377
+Eye blinked 0.030758380889892578 seconds
+Total 378
+Eye blinked 0.028032541275024414 seconds
+Total 379
+Eye blinked 0.0314788818359375 seconds
+Total 380
+Eye blinked 0.03194570541381836 seconds
+Total 381
+Eye blinked 0.030242204666137695 seconds
+Total 382
+Eye blinked 0.0360264778137207 seconds
+Total 383
+Eye blinked 0.031369924545288086 seconds
+Total 384
+Eye blinked 0.030347585678100586 seconds
+Total 385
+Eye blinked 0.03183913230895996 seconds
+Total 386
+Eye blinked 0.031726837158203125 seconds
+Total 387
+Eye blinked 0.0301663875579834 seconds
+Total 388
+Eye blinked 0.03026413917541504 seconds
+Total 389
+Eye blinked 0.032178640365600586 seconds
+Total 390
+Eye blinked 0.030991792678833008 seconds
+Total 391
+Eye blinked 0.031926631927490234 seconds
+Total 392
+Eye blinked 0.04182076454162598 seconds
+Total 393
+Eye blinked 0.03204011917114258 seconds
+Total 394
+Eye blinked 0.030409812927246094 seconds
+Total 395
+Eye blinked 0.02920699119567871 seconds
+Total 396
+Eye blinked 0.031273603439331055 seconds
+Total 397
+Eye blinked 0.03159594535827637 seconds
+Total 398
+Eye blinked 0.03297019004821777 seconds
+Total 399
+Eye blinked 0.030443191528320312 seconds
+Total 400
+Eye blinked 0.03183889389038086 seconds
+Total 401
+Eye blinked 0.03136920928955078 seconds
+Total 402
+Eye blinked 0.042984724044799805 seconds
+Total 403
+Eye blinked 0.032601118087768555 seconds
+Total 404
+Eye blinked 0.029306411743164062 seconds
+Total 405
+Eye blinked 0.03189802169799805 seconds
+Total 406
+Eye blinked 0.030615568161010742 seconds
+Total 407
+Eye blinked 0.031101703643798828 seconds
+Total 408
+Eye blinked 0.03102874755859375 seconds
+Total 409
+Eye blinked 0.02514505386352539 seconds
+Total 410
+Eye blinked 0.031343698501586914 seconds
+Total 411
+Eye blinked 0.03170418739318848 seconds
+Total 412
+Eye blinked 0.03189659118652344 seconds
+Total 413
+Eye blinked 0.03130197525024414 seconds
+Total 414
+Eye blinked 0.031271934509277344 seconds
+Total 415
+Eye blinked 0.030527114868164062 seconds
+Total 416
+Eye blinked 0.03005671501159668 seconds
+Total 417
+Eye blinked 0.03089737892150879 seconds
+Total 418
+Eye blinked 0.03174591064453125 seconds
+Total 419
+Eye blinked 0.03129863739013672 seconds
+Total 420
+Eye blinked 0.030947446823120117 seconds
+Total 421
+Eye blinked 0.031341552734375 seconds
+Total 422
+Eye blinked 0.030435800552368164 seconds
+Total 423
+Eye blinked 0.0312955379486084 seconds
+Total 424
+Eye blinked 0.030802011489868164 seconds
+Total 425
+Eye blinked 0.03293251991271973 seconds
+Total 426
+Eye blinked 0.031914710998535156 seconds
+Total 427
+Eye blinked 0.03162646293640137 seconds
+Total 428
+Eye blinked 0.03129100799560547 seconds
+Total 429
+Eye blinked 0.03276991844177246 seconds
+Total 430
+Eye blinked 0.03182840347290039 seconds
+Total 431
+Eye blinked 0.03218555450439453 seconds
+Total 432
+Eye blinked 0.03112006187438965 seconds
+Total 433
+Eye blinked 0.03235602378845215 seconds
+Total 434
+Eye blinked 0.03122854232788086 seconds
+Total 435
+Eye blinked 0.031951189041137695 seconds
+Total 436
+Eye blinked 0.03152036666870117 seconds
+Total 437
+Eye blinked 0.03013443946838379 seconds
+Total 438
+Eye blinked 0.031090497970581055 seconds
+Total 439
+Eye blinked 0.03073406219482422 seconds
+Total 440
+Eye blinked 0.031110525131225586 seconds
+Total 441
+Eye blinked 0.03235173225402832 seconds
+Total 442
+Eye blinked 0.04331517219543457 seconds
+Total 443
+Eye blinked 0.05284881591796875 seconds
+Total 444
+Eye blinked 0.030310869216918945 seconds
+Total 445
+Eye blinked 0.04400444030761719 seconds
+Total 446
+Eye blinked 0.03172445297241211 seconds
+Total 447
+Eye blinked 0.0311124324798584 seconds
+Total 448
+Eye blinked 0.030885696411132812 seconds
+Total 449
+Eye blinked 0.06991410255432129 seconds
+Total 450
+Eye blinked 0.03135943412780762 seconds
+Total 451
+Eye blinked 0.03174924850463867 seconds
+Total 452
+Eye blinked 0.030263662338256836 seconds
+Total 453
+Eye blinked 0.03217887878417969 seconds
+Total 454
+Eye blinked 0.031183481216430664 seconds
+Total 455
+Eye blinked 0.04895162582397461 seconds
+Total 456
+Eye blinked 0.031070947647094727 seconds
+Total 457
+Eye blinked 0.03090381622314453 seconds
+Total 458
+Eye blinked 0.03123760223388672 seconds
+Total 459
+Eye blinked 0.031935930252075195 seconds
+Total 460
+Eye blinked 0.031125783920288086 seconds
+Total 461
+Eye blinked 0.031298160552978516 seconds
+Total 462
+Eye blinked 0.032262563705444336 seconds
+Total 463
+Eye blinked 0.027300119400024414 seconds
+Total 464
+Eye blinked 0.033025503158569336 seconds
+Total 465
+Eye blinked 0.031131982803344727 seconds
+Total 466
+Eye blinked 0.03019571304321289 seconds
+Total 467
+Eye blinked 0.031142473220825195 seconds
+Total 468
+Eye blinked 0.02747631072998047 seconds
+Total 469
+Eye blinked 0.03132915496826172 seconds
+Total 470
